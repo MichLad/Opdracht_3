@@ -1,1 +1,2 @@
 "een eenvoudige tekst en sla dit op"
+"Bewerk één van de bestanden"
