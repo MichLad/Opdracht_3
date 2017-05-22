@@ -1,0 +1,3 @@
+Stap 2: Aanmaken van een lokale repository :)
+Stap 3: Maken van een aantal bestanden
+Stap 7: Maken van nieuwe versie 
